@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/chmqp.pages.dev.ico",
     "slug": "chmqp-status",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
-    "uptimeYear": "99.87%",
-    "time": 151,
-    "timeDay": 119,
-    "timeWeek": 105,
+    "uptimeYear": "99.88%",
+    "time": 150,
+    "timeDay": 80,
+    "timeWeek": 101,
     "timeMonth": 133,
-    "timeYear": 151,
+    "timeYear": 150,
     "dailyMinutesDown": {
       "2025-11-18": 136
     }
